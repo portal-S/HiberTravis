@@ -1,8 +1,11 @@
 # Default ignored files
+.idea/
+target/
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../../../:\Users\User\IdeaProjects\HiberTarvis\.idea/dataSources/
+/../../../../../../:\Users\User\IdeaProjects\HiberTarvis\.idea/
+/../../../../../../:\Users\User\IdeaProjects\HiberTarvis\target/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
